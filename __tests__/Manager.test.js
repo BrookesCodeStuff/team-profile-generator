@@ -31,7 +31,7 @@ test("gets a manager's email address", () => {
 test("gets a manager's role", () => {
   const manager = new Manager('Jane');
 
-  expect(manager.role).toBe('Manager');
+  expect(manager.getRole()).toBe('Manager');
 });
 
 test("gets a manager's office number", () => {

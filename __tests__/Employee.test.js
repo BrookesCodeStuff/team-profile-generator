@@ -31,5 +31,5 @@ test("gets an empoyee's email address", () => {
 test("gets an employee's role", () => {
   const employee = new Employee('Jane');
 
-  expect(employee.role).toBe('Employee');
+  expect(employee.getRole()).toBe('Employee');
 });
