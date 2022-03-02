@@ -6,7 +6,7 @@ A tool for team managers to generate a web page which gives easy and convenient 
 
 ## Install
 
-This project requires NodeJS to run. Dependent packages are included in the package.json. Click the green Code button in the GitHub repo and then choose 'Download Zip'. Save the zip file somewhere easily accessible. After unzipping the file, open your terminal application and browse to the directory where the files were extracted. Use the command `node index.js` to start the application.
+This project requires NodeJS to run. Dependent packages are included in the package.json. Click the green Code button in the GitHub repo and then choose 'Download Zip'. Save the zip file somewhere easily accessible. After unzipping the file, open your terminal application and browse to the directory where the files were extracted. Make sure all needed packages are installed by running the command `npm install`. Use the command `node index.js` to start the application.
 
 ## Usage
 
