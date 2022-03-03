@@ -13,3 +13,5 @@ This project requires NodeJS to run. Dependent packages are included in the pack
 To use, answer the prompts that appear in the terminal. Once all team members have been added, select 'Finish'. An HTML page is automatically generated and placed in the /dist/ directory.
 
 ## Walkthrough
+
+[Walkthrough Video](https://drive.google.com/file/d/1bODwNaTxEr0PXqeq-WnhSZEnigMz8VEu/view)
